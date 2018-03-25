@@ -2,6 +2,8 @@
 
 This folder contains a Utility Network ADE sample dataset of a water pipe network in the city of Nanaimo, located on Vancouver Island in the province of British Columbia, Canada.
 
+The UtilityNetwork ADE is an extension for CityGML inteded for integration of utility network features in semantic city models. More info can be found it its [official repository](https://github.com/TatjanaKutzner/CityGML-UtilityNetwork-ADE)
+
 The sample was created by Isaac Boates while working as a researcher assistant (Hi-Wi) at the European Institute For Energy Research (EIFER) in Karlsruhe, Germany. His work has been supervised by Alexandru Nichersu (EIFER) and by Dr. Tatjana Kutzner (from the Technische Universität München - TUM, Germany). It was made using Safe Software's "Feature Manipulation Engine" software.
 
 The Nanaimo water pipe data was altered and refined somewhat from its original source in Quantum GIS (QGIS) before being transformed in FME.
